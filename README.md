@@ -13,7 +13,7 @@
 
 🌟 I love mentoring others and have conducted **free Django workshops**, guiding students to deploy their own projects.
 
-🔬 I'm also diving into advanced AI projects like **brain tumor classification** using CNNs and TensorFlow, focusing on explainability and visualization.
+🔬 I'm also diving into more advanced AI projects, focusing on **Responsible AI**, **Explainability** and **Visualization**.
 
 📊 My expertise extends to **Business Intelligence Solutions**, and I actively support **Academic Project** development through training students.
 

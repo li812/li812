@@ -2,6 +2,8 @@
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPYxgFtAV9E0H4PxADGf+B+D8bO9v/p0+f/gfxkQHIUJB+bm7u/0uXLv1/+/bt/4SEBLAYMgA5dfLkyf9XrFjxf/369f8rKyv/Hzt27H9DQwNYDhmADLx79+7/M2fO/N+zZ8//1atXg8Xv37//f/v27f/z58//v3//PkQlskGfP3/+//Tp0/8nTpz4f/jw4f/79+//v3Xr1v979+79P3/+/P/3798jq0Q26MWLF/8vXrz4/8CBA/937dr1f9OmTf/Xrl37f9myZf/nzp37/+3btxCVyAa9fv36/7lz5/7v2rXr/9atW/+vX7/+/+rVq/8vXbr0/5w5c/6/efMGohLZoE+fPv0/ffr0/23btv3fsGHD/7Vr1/5fsWLF/4ULF/6fNWvW/1evXkFUIhv04cOH/ydPnvy/efPm/+vWrfu/evXq/8uXL/+/YMGCbzNmzPgPciFYJbJB79+//3/s2LH/GzduBPu7srLy/7Jly/7Pnz//2/Tp078/f/4cohLZoHfv3v0/fPjw//Xr1/9ftWrV/6VLl/6fN2/e9WnTpn178uQJRBUaYGAAAAc3p3wu5B/QAAAAAElFTkSuQmCC)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green?style=flat-square&logo=stack-overflow)
+![Teacher](https://img.shields.io/badge/Teacher-Mentor-purple?style=flat-square&logo=google-scholar)
+
 
 ## 🚀 About Me
 A passionate **Data Science Enthusiast** and **Full Stack Developer** with expertise in **Machine Learning**, **Deep Learning**, and **Web Development**. Currently pursuing my **Master of Computer Application** at the University of Kerala, I create innovative technological solutions. I take on **freelance projects**, contribute to **open-source initiatives**, and conduct technical **workshops** on **Django**, **Spring Boot**, **Machine Learning**, and **Computer Vision** for students. I also provide support for **academic projects**.

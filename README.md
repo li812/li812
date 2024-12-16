@@ -4,7 +4,7 @@
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green?style=flat-square&logo=stack-overflow)
 
 ## 🚀 About Me
-A passionate **Data Science Enthusiast** and **Full Stack Developer** with a strong background in **Machine Learning**, **Deep Learning**, and **Web Development**. Currently pursuing my **Master of Computer Application** at the University of Kerala, I'm dedicated to creating innovative technological solutions. I work on **freelance projects** and contribute to **open-source initiatives**, while also conducting technical **workshops** on **Django **, **Spring Boot**, **Machine Learning**, and **Computer Vision technologies** for students, also give support for **academic projects**. 
+A passionate **Data Science Enthusiast** and **Full Stack Developer** with a strong background in **Machine Learning**, **Deep Learning**, and **Web Development**. Currently pursuing my **Master of Computer Application** at the University of Kerala, I'm dedicated to creating innovative technological solutions. I work on **freelance projects** and contribute to **open-source initiatives**, while also conducting technical **workshops** on **Django**, **Spring Boot**, **Machine Learning**, and **Computer Vision technologies** for students, also give support for **academic projects**. 
 
 [![Machine Learning](https://img.shields.io/badge/ML-Expert-orange?style=flat-square&logo=tensorflow)](https://tensorflow.org)
 [![Deep Learning](https://img.shields.io/badge/DL-Practitioner-red?style=flat-square&logo=pytorch)](https://pytorch.org)

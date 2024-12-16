@@ -7,8 +7,8 @@
 
 ## 🚀 About Me
 
-### A passionate **Data Science Enthusiast** and **Full Stack Developer** with expertise in **Machine Learning**, **Deep Learning**, and **Web Development**. Currently pursuing my **Master of Computer Application** at the University of Kerala, I create innovative technological solutions. I take on **freelance projects**, contribute to **open-source initiatives**, and conduct technical **workshops** on **Django**, **Spring Boot**, **Machine Learning**, and **Computer Vision** for students. I also provide support for **academic projects**.
-###
+A passionate **Data Science Enthusiast** and **Full Stack Developer** with expertise in **Machine Learning**, **Deep Learning**, and **Web Development**. Currently pursuing my **Master of Computer Application** at the University of Kerala, I create innovative technological solutions. I take on **freelance projects**, contribute to **open-source initiatives**, and conduct technical **workshops** on **Django**, **Spring Boot**, **Machine Learning**, and **Computer Vision** for students. I also provide support for **academic projects**.
+
 
 
 

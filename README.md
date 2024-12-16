@@ -15,7 +15,7 @@
 
 🔬 I'm also diving into advanced AI projects like **brain tumor classification** using CNNs and TensorFlow, focusing on explainability and visualization.
 
-📊 My expertise extends to **Business Intelligence Solutions**, and I actively support academic project development through training.
+📊 My expertise extends to **Business Intelligence Solutions**, and I actively support **Academic Project** development through training students.
 
 🎯 Fun fact: I enjoy exploring history and myths.
 

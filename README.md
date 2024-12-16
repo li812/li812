@@ -1,8 +1,5 @@
 <h1>Hi there! I'm A<strong>li</strong> Ahammad 👋</h1>
-<img src="https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge&logo=python" alt="Data Science">
-<img src="https://img.shields.io/badge/AI-Researcher-red?style=for-the-badge&logo=tensorflow" alt="AI Research">
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&logo=react" alt="Full Stack">
-<img src="https://img.shields.io/badge/Teaching-Mentor-purple?style=for-the-badge&logo=google-scholar" alt="Teacher">
+<img src="https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge&logo=python" alt="Data Science"><img src="https://img.shields.io/badge/AI-Researcher-red?style=for-the-badge&logo=tensorflow" alt="AI Research"><img src="https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&logo=react" alt="Full Stack"><img src="https://img.shields.io/badge/Teaching-Mentor-purple?style=for-the-badge&logo=google-scholar" alt="Teacher">
 
 <h2>🚀 About Me</h2>
 <h3>A passionate <strong>Data Science Enthusiast</strong> and <strong>Full Stack Developer</strong> with expertise in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Web Development</strong>. Currently pursuing my <strong>Master of Computer Application</strong> at the University of Kerala, I create innovative technological solutions. I take on <strong>freelance projects</strong>, contribute to <strong>open-source initiatives</strong>, and conduct technical <strong>workshops</strong> on <strong>Django</strong>, <strong>Spring Boot</strong>, <strong>Machine Learning</strong>, and <strong>Computer Vision</strong> for students. I also provide support for <strong>academic projects</strong>.</h3>

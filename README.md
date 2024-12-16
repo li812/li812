@@ -1,26 +1,59 @@
-👋 Hi, I'm a passionate **Data Science Enthusiast** and **MCA student** at Sree Narayana Institute of Technology, Kollam, Kerala. With a strong foundation in **Django web development** and a knack for **machine learning**, I specialize in creating impactful applications that solve real-world problems.
+# Hi there! I'm Ali Ahammad 👋
 
-[![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-3.2-092D1F?logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-FF5C5C)](https://scikit-learn.org/)
-[![Business Intelligence](https://img.shields.io/badge/BI-Business%20Intelligence-00B9F1)](https://www.tableau.com/)
+## 🚀 About Me
+A passionate **Data Scientist** and **Full Stack Developer** with a strong background in Machine Learning, Deep Learning, and Web Development. Currently pursuing my Master of Computer Application at the University of Kerala, I'm dedicated to creating innovative technological solutions.
 
-💻 My projects span diverse domains, including:
-- **Healthcare**: Predictive tools like heart failure diagnostics and stroke risk comparison.
-- **Space Science**: ML-based asteroid impact prediction and galaxy classification.
-- **Wildlife & Conservation**: Real-time animal monitoring and marine species detection using YOLO.
+## 🛠️ Tech Stack
 
-🌟 I love mentoring others and have conducted **free Django workshops**, guiding students to deploy their own projects.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🔬 I'm also diving into more advanced AI projects, focusing on **Responsible AI**, **Explainability** and **Visualization**.
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-📊 My expertise extends to **Business Intelligence Solutions**, and I actively support **Academic Project** development through training students.
+### Data Science & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-🎯 Fun fact: I enjoy exploring history and myths.
+## 🏆 Certifications
+- 🏅 Google Cybersecurity Specialization (2024)
+- 🧠 Intermediate Machine Learning (Kaggle, 2023)
+- 📊 Advanced Google Analytics (2023)
+- 🐍 Data Analysis with Python (freeCodeCamp, 2023)
 
----
+## 💡 Featured Projects
 
+### 1. LiSQL 📦
+- Python package for simplifying data extraction and merging from multiple MySQL servers
+- Available on PyPI
+- Ideal for data science projects
 
+### 2. SafeLink Vision 🛡️
+- Django-based chat system with advanced security features
+- Implements Meso4 Deep Learning model for deepfake detection
+- Hybrid LSTM-RNN model for URL classification
 
-Let's collaborate to build something amazing! 🚀  
+### 3. Pandemic Controlling System (PCS) 🏥
+- Django web app and Android application
+- Connects governments, civilians, doctors, and volunteers
+- Includes CNN model for test kit result classification
+
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ahammad-li0812)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li812)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.aliahammad.com)
+
+## 🎯 Career Objective
+Seeking a Software Engineer position to leverage my expertise in software development, data science, machine learning, deep learning, and data analysis. Committed to driving innovative technological advancements and continuous learning.
+
+![Profile Views](https://komarev.com/ghpvc/?username=li812&color=blueviolet)

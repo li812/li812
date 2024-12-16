@@ -1,7 +1,14 @@
 # Hi there! I'm A**li** Ahammad 👋
 
+![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPYxgFtAV9E0H4PxADGf+B+D8bO9v/p0+f/gfxkQHIUJB+bm7u/0uXLv1/+/bt/4SEBLAYMgA5dfLkyf9XrFjxf/369f8rKyv/Hzt27H9DQwNYDhmADLx79+7/M2fO/N+zZ8//1atXg8Xv37//f/v27f/z58//v3//PkQlskGfP3/+//Tp0/8nTpz4f/jw4f/79+//v3Xr1v979+79P3/+/P/3798jq0Q26MWLF/8vXrz4/8CBA/937dr1f9OmTf/Xrl37f9myZf/nzp37/+3btxCVyAa9fv36/7lz5/7v2rXr/9atW/+vX7/+/+rVq/8vXbr0/5w5c/6/efMGohLZoE+fPv0/ffr0/23btv3fsGHD/7Vr1/5fsWLF/4ULF/6fNWvW/1evXkFUIhv04cOH/ydPnvy/efPm/+vWrfu/evXq/8uXL/+/YMGCbzNmzPgPciFYJbJB79+//3/s2LH/GzduBPu7srLy/7Jly/7Pnz//2/Tp078/f/4cohLZoHfv3v0/fPjw//Xr1/9ftWrV/6VLl/6fN2/e9WnTpn178uQJRBUaYGAAAAc3p3wu5B/QAAAAAElFTkSuQmCC)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green?style=flat-square&logo=stack-overflow)
+
 ## 🚀 About Me
-A passionate **Data Science Enthusiast** and **Full Stack Developer** with a strong background in Machine Learning, Deep Learning, and Web Development. Currently pursuing my Master of Computer Application at the University of Kerala, I'm dedicated to creating innovative technological solutions. I work on freelance projects and contribute to open-source initiatives, while also conducting technical workshops on Django, Spring Boot, Machine Learning, and Computer Vision technologies.
+A passionate **Data Science Enthusiast** and **Full Stack Developer** with a strong background in **Machine Learning**, **Deep Learning**, and **Web Development**. Currently pursuing my **Master of Computer Application** at the University of Kerala, I'm dedicated to creating innovative technological solutions. I work on **freelance projects** and contribute to **open-source initiatives**, while also conducting technical **workshops** on **Django **, **Spring Boot**, **Machine Learning**, and **Computer Vision technologies** for students, also give support for **academic projects**. 
+
+[![Machine Learning](https://img.shields.io/badge/ML-Expert-orange?style=flat-square&logo=tensorflow)](https://tensorflow.org)
+[![Deep Learning](https://img.shields.io/badge/DL-Practitioner-red?style=flat-square&logo=pytorch)](https://pytorch.org)
+[![Web Dev](https://img.shields.io/badge/Web-Developer-blue?style=flat-square&logo=html5)](https://developer.mozilla.org)
 
 
 ## 🛠️ Tech Stack
@@ -58,7 +65,8 @@ A passionate **Data Science Enthusiast** and **Full Stack Developer** with a str
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ahammad-li0812)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li812)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.aliahammad.com)
+[![Website](https://img.shields.io/badge/Portfolio-3E324E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aliahammad.com)
+
 
 
 

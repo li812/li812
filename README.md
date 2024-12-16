@@ -1,18 +1,18 @@
 # Hi there! I'm A**li** Ahammad 👋
 
-![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge&logo=python)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&logo=react)
-![AI Research](https://img.shields.io/badge/AI-Researcher-red?style=for-the-badge&logo=tensorflow)
-![Teacher](https://img.shields.io/badge/Teaching-Mentor-purple?style=for-the-badge&logo=google-scholar)
 
 ## 🚀 About Me
 
-#### A passionate **Data Science Enthusiast** and **Full Stack Developer** with expertise in **Machine Learning**, **Deep Learning**, and **Web Development**. Currently pursuing my **Master of Computer Application** at the University of Kerala, I create innovative technological solutions. I take on **freelance projects**, contribute to **open-source initiatives**, and conduct technical **workshops** on **Django**, **Spring Boot**, **Machine Learning**, and **Computer Vision** for students. I also provide support for **academic projects**.
-####
+### A passionate **Data Science Enthusiast** and **Full Stack Developer** with expertise in **Machine Learning**, **Deep Learning**, and **Web Development**. Currently pursuing my **Master of Computer Application** at the University of Kerala, I create innovative technological solutions. I take on **freelance projects**, contribute to **open-source initiatives**, and conduct technical **workshops** on **Django**, **Spring Boot**, **Machine Learning**, and **Computer Vision** for students. I also provide support for **academic projects**.
+###
 
+
+![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge&logo=python)
+![AI Research](https://img.shields.io/badge/AI-Researcher-red?style=for-the-badge&logo=tensorflow)
 [![Machine Learning](https://img.shields.io/badge/ML-Expert-orange?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
 [![Deep Learning](https://img.shields.io/badge/DL-Practitioner-red?style=for-the-badge&logo=pytorch)](https://pytorch.org)
-[![Web Dev](https://img.shields.io/badge/Web-Developer-blue?style=for-the-badge&logo=html5)](https://developer.mozilla.org)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&logo=react)
+![Teacher](https://img.shields.io/badge/Teaching-Mentor-purple?style=for-the-badge&logo=google-scholar)
 
 
 ## 🛠️ Tech Stack

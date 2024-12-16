@@ -11,7 +11,7 @@
 
 📊 My expertise extends to **Business Intelligence Solutions**, and I actively support academic project development through training.
 
-🎯 Fun fact: I enjoy exploring legends, especially Indian myths like **Ashwathama sightings** in Kerala.
+🎯 Fun fact: I enjoy exploring history and myths.
 
 ---
 

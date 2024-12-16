@@ -9,10 +9,11 @@
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge&logo=python)
 ![AI Research](https://img.shields.io/badge/AI-Researcher-red?style=for-the-badge&logo=tensorflow)
-<!-- [![Machine Learning](https://img.shields.io/badge/ML-Expert-orange?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
-[![Deep Learning](https://img.shields.io/badge/DL-Practitioner-red?style=for-the-badge&logo=pytorch)](https://pytorch.org) -->
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&logo=react)
 ![Teacher](https://img.shields.io/badge/Teaching-Mentor-purple?style=for-the-badge&logo=google-scholar)
+<!-- [![Machine Learning](https://img.shields.io/badge/ML-Expert-orange?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
+[![Deep Learning](https://img.shields.io/badge/DL-Practitioner-red?style=for-the-badge&logo=pytorch)](https://pytorch.org) -->
+
 
 
 ## 🛠️ Tech Stack

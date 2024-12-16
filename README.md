@@ -3,7 +3,7 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge&logo=python)
 ![AI Research](https://img.shields.io/badge/AI-Researcher-red?style=for-the-badge&logo=tensorflow)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&logo=react)
-![Teacher](https://img.shields.io/badge/Teaching-Mentor-purple?style=for-the-badge&logo=google-scholar)
+![Teacher](https://img.shields.io/badge/Teacher-Mentor-purple?style=for-the-badge&logo=google-scholar)
 
 ## 🚀 About Me
 

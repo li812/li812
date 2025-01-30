@@ -71,7 +71,7 @@ A passionate **Data Science Enthusiast** and **Full Stack Developer** with exper
 - 🗿 Passionate about world mythology and folklore
 - 🏍️ Adventure seeker and motorcycle enthusiast
 - 🌍 Love exploring new cultures through travel and historical sites
-- 🎮 Gaming enthusiast, especially historical and mythology-based games
+- 🎮 Gaming enthusiast
 - 🗺️ Planning road trips to historical landmarks on my motorcycle
 - 📖 Building a collection of historical books and artifacts
 

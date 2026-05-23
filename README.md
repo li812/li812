@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-A passionate **Data Science Enthusiast** and **Full Stack Developer** with expertise in **Machine Learning**, **Deep Learning**, and **Web Development**. Currently pursuing my **Master of Computer Application** at the University of Kerala, I create innovative technological solutions. I take on **freelance projects**, contribute to **open-source initiatives**, and conduct technical **workshops** on **Django**, **Spring Boot**, **Machine Learning**, and **Computer Vision** for students. I also provide support for **academic projects**.
+A passionate **AI/ML Backend Engineer** and **Full Stack Developer** with deep expertise in **RAG pipelines**, **NLP**, **LLM integrations**, and **cloud infrastructure**. Currently working at **AMT** where I lead **MCP (Model Context Protocol)** client/server implementation and build production-grade AI systems on **GCP**. I work with vector databases, LLM connectors (**OpenAI**, **Llama**, **BERT**, **Whisper**), and self-hosted inference stacks.
 
 
 

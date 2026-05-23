@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-A passionate **AI/ML Backend Engineer** by profession and **GenAI Full Stack Developer** by hobby, with expertise in **RAG pipelines**, **NLP**, **LLM integrations**, and **cloud infrastructure**. Currently working at **AMT** where I lead **MCP (Model Context Protocol)** client/server implementation and build production-grade AI systems on **GCP**. I work with vector databases, LLM connectors (**OpenAI**, **Llama**, **BERT**, **Whisper**), and self-hosted inference stacks.
+A passionate **AI/ML Backend Engineer** by profession and **GenAI Full Stack Developer** by hobby, with deep expertise in **RAG pipelines**, **NLP**, **LLM integrations**, and **cloud infrastructure**. Currently working at **[AMT](https://amt.in)** where I lead **MCP (Model Context Protocol)** client/server implementation and build production-grade AI systems on **GCP**. I work with vector databases, LLM connectors (**OpenAI**, **Llama**, **BERT**, **Whisper**), and self-hosted inference stacks.
 
 
 

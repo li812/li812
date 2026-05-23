@@ -1,4 +1,4 @@
-# Hi there! I'm A**li** Ahammad 👋
+# Hi there! I'm A`li` Ahammad 👋
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge&logo=python)
 ![AI Research](https://img.shields.io/badge/AI-Researcher-red?style=for-the-badge&logo=tensorflow)

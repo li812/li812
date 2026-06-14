@@ -1,4 +1,4 @@
-## Hi there! I'm A**li** Ahammad 👋
+## Hi, I'm Ali Ahammad (Li) 👋
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge&logo=python)
 ![AI Research](https://img.shields.io/badge/AI-Researcher-red?style=for-the-badge&logo=tensorflow)
@@ -59,11 +59,12 @@ A passionate **AI/ML Backend Engineer** by profession, with expertise in **RAG p
 
 ## 🏆 Certifications
 
-- 🎓 Master in Data Science (SMEClabs, 2023)
-- 🏅 Google Cybersecurity Specialization (2024)
-- 🧠 Intermediate Machine Learning (Kaggle, 2023)
-- 📊 Advanced Google Analytics (2023)
-- 🐍 Data Analysis with Python (freeCodeCamp, 2023)
+- 🥇 Microsoft AI Agents: From Foundations to Applications — Professional (Microsoft, Jun 2026)
+- 🏅 IBM Data Science Professional Certificate (IBM, Jun 2025)
+- 🤖 IBM AI Developer Specialization (IBM, Jun 2025)
+- 💻 Full Stack Web Development with MERN — Professional (Edunet Foundation, Aug 2025)
+- 🛡️ Google Cybersecurity Specialization — Professional (Google, Mar 2024)
+- 🎓 Master in Data Science — 6-month offline program (SMEClabs, Mar 2023)
 
 ## 🎮 Fun Facts & Interests
 - 📚 History enthusiast, particularly fascinated by ancient civilizations

@@ -1,9 +1,10 @@
 ## Hi, I'm Ali Ahammad (Li) 👋
 
-![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge&logo=python)
-![AI Research](https://img.shields.io/badge/AI-Researcher-red?style=for-the-badge&logo=tensorflow)
+![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Backend%20Engineer-red?style=for-the-badge&logo=python)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-MCP%20Specialist-blueviolet?style=for-the-badge&logo=anthropic)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge&logo=react)
 ![Teacher](https://img.shields.io/badge/Teacher-Mentor-purple?style=for-the-badge&logo=google-scholar)
+![Student](https://img.shields.io/badge/Lifelong-Student-orange?style=for-the-badge&logo=bookstack)
 
 ## 🚀 About Me
 
@@ -35,6 +36,10 @@ A passionate **AI/ML Backend Engineer** by profession, with expertise in **RAG p
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-FF6B35?style=for-the-badge&logo=microsoft&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 ### Data Science & Analytics
@@ -45,8 +50,12 @@ A passionate **AI/ML Backend Engineer** by profession, with expertise in **RAG p
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Frameworks & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
